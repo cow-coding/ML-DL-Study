@@ -13,8 +13,7 @@ jupyter notebook으로 작성된 내용들입니다.
   - [Chap 04. Neural Network Training](https://github.com/cow-coding/ML-DL-Study/tree/master/DL%20from%20Scratch/Book%201/Chap04)
   - [Cahp 05. Backpropagation](https://github.com/cow-coding/ML-DL-Study/tree/master/DL%20from%20Scratch/Book%201/Chap05)
 
-### Practical Time Series Analysis (실전 시계열 분석)
-책의 original code가 일부 잘못된 것들이 있어서 추가로 작업하는 중입니다.  
+### Practical Time Series Analysis (실전 시계열 분석)  
 R만 있는 코드를 python으로도 재작성하는 작업 진행중입니다.
 - [Original code]()
 - [Only python]()
