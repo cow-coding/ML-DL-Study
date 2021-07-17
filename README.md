@@ -15,5 +15,5 @@ jupyter notebook으로 작성된 내용들입니다.
 
 ### Practical Time Series Analysis (실전 시계열 분석)  
 R만 있는 코드를 python으로도 재작성하는 작업 진행중입니다.
-- [Original code]()
-- [Only python]()
+- [Original code](https://github.com/cow-coding/ML-DL-Study/tree/master/Practical%20Time%20Series%20Analysis/Original%20Code)
+- [Only python](https://github.com/cow-coding/ML-DL-Study/tree/master/Practical%20Time%20Series%20Analysis/Only%20Python)
