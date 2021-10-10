@@ -17,3 +17,7 @@ jupyter notebook으로 작성된 내용들입니다.
 R만 있는 코드를 python으로도 재작성하는 작업 진행중입니다.
 - [Original code](https://github.com/cow-coding/ML-DL-Study/tree/master/Practical%20Time%20Series%20Analysis/Original%20Code)
 - [Only python](https://github.com/cow-coding/ML-DL-Study/tree/master/Practical%20Time%20Series%20Analysis/Only%20Python)
+
+### Python을 이용한 개인화 추천시스템
+- [Chap 02. Basic Recommender System](https://github.com/cow-coding/ML-DL-Study/blob/master/Python을%20이용한%20개인화%20추천시스템/RS_Chapter2_basic.ipynb)
+- [Chap 03. Collaborative Filtering](https://github.com/cow-coding/ML-DL-Study/blob/master/Python을%20이용한%20개인화%20추천시스템/RS_Chapter3_CF.ipynb)
